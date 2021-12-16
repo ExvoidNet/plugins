@@ -66,7 +66,7 @@
 | ~~AdvancedSpawners~~ | ~~[Link](https://www.spigotmc.org/resources/1-8-1-18-1-%E2%9C%85-advancedspawners-%E2%9C%85-11x-custom-mobs-%E2%AD%95-create-custom-mobs-in-game-%E2%9A%A1-25-sale-%E2%9A%A1.75458/purchase)~~ | ~~GC.~~ | ~~Remission~~ | ~~1.16.4~~ | ~~Yes~~ | **Removed** | 16/12/2021 |
 | ~~BetterEnd~~ | ~~[Link](https://www.spigotmc.org/resources/betterend-rethink-the-end-dimension.79389/)~~ | ~~dfsek~~ | ~~Remission~~ | ~~1.16.4~~ | No | **Removed** | 16/12/2021 |
 | BloodMoon | [Link](https://www.spigotmc.org/resources/bloodmoon.74270/download?version=349021) | SpectralMemories | Remission | 1.16.4 | No | To be replaced (Core v1) | N/A |
-| BetterRTP | [Link](https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/download?version=421901) | RonanCraft | Remission | 1.16.4 | No | To be replaced (Core v1) | N/A | 
+| BetterRTP | [Link](https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/download?version=421901) | RonanCraft | Remission | 1.16.4 | ~~No~~ | To be replaced (Core v1) | N/A | 
 | BloodInMinecraft | [Link](https://www.spigotmc.org/resources/blood-in-minecraft.31549/download?version=423777) | yanisssch91 | Remission | 1.16.4 | No | To be replaced (Core v1) | N/A |
 | CorpseReborn | [Link](https://www.spigotmc.org/resources/corpsereborn.29875/download?version=375141) | ericgolde555 | Remission | 1.16.4 | No | In use | N/A |
 | CrazyAuctions | [Link](https://github.com/Crazy-Crew/Crazy-Auctions/releases/tag/v1.2.16) | BadBones69 | Remission | 1.16.4 | No | To be replaced (Core v1) | N/A |
