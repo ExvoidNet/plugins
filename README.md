@@ -50,7 +50,7 @@
 | Skript | [Link](https://github.com/SkriptLang/Skript/releases) | Njolbrim | Global | 1.16.5 | Yes | Core v1 (Brain) | N/A |
 | SkBee | [Link](https://www.spigotmc.org/resources/skbee-skript-addon.75839/download?version=431552) | ShaneBee | Global | 1.16.5 | Yes | Core v1 (Component) | N/A |
 | SkQuery | [Link](https://www.spigotmc.org/resources/skquery-1-9-1-17.36631/download?version=400063) | LimeGlass | Global | 1.16.5 | No | Core v1 (Component) | N/A |
-| SkUniversal | [Link](https://www.spigotmc.org/resources/skuniversal.45392/download?version=428614) | \_Donut_ | Global | 1.16.5 | No | To be removed | N/A |
+| ~~SkUniversal~~ | ~~[Link](https://www.spigotmc.org/resources/skuniversal.45392/download?version=428614)~~ | ~~\_Donut_~~ | ~~Global~~ | ~~1.16.5~~ | ~~No~~ | **Removed** | 17/12/2021 |
 | Skellet | [Link](https://www.spigotmc.org/resources/skript-java-addon-skellett.34361/download?version=431700) | LimeGlass | Global | 1.16.5 | Yes | Core v1 (Component) | N/A |
 | skRayFall | [Link](https://dev.bukkit.org/projects/skrayfall/files/latest) | eyesniper2 | Global | 1.16.5 | N/A | Core v1 (Component) | N/A |
 | skript-reflect | [Link](https://forums.skunity.com/resources/skript-reflect.1146/download?version=3142) | TPGamesNL | Global | 1.16.5 | No | Core v1 (Component) | N/A |
