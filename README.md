@@ -45,7 +45,7 @@
 | FastAsyncWorldEdit | [Link](https://ci.athion.net/job/FastAsyncWorldEdit-1.17/) | IntellectualSites | Global | 1.16.5 | No | In use | N/A |
 | FastAsyncVoxelSniper | [Link](https://dev.bukkit.org/projects/favs) | IntellectualSites | Global | 1.16.5 | No | In use | N/A |
 | goBrush | [Link](https://www.spigotmc.org/resources/gobrush.23118/download?version=398990) | Arcaniax | Global | 1.16.5 | No | In use | N/A |
-| WorldGuard | [Link](https://dev.bukkit.org/projects/worldguard/files/latest) | sk89q | Global | 1.16.5 | No | Might replace (Core v1) | N/A |
+| WorldGuard | [Link](https://dev.bukkit.org/projects/worldguard/files/latest) | sk89q | Global | 1.16.5 | No | To be determined (Core v1) | N/A |
 | Spark | [Link](https://www.spigotmc.org/resources/spark.57242/download?version=429428) | Luck | Global |  1.16.5 | Yes | In use | N/A |
 | Skript | [Link](https://github.com/SkriptLang/Skript/releases) | Njolbrim | Global | 1.16.5 | Yes | Core v1 (Brain) | N/A |
 | SkBee | [Link](https://www.spigotmc.org/resources/skbee-skript-addon.75839/download?version=431552) | ShaneBee | Global | 1.16.5 | Yes | Core v1 (Component) | N/A |
@@ -59,12 +59,12 @@
 | GSit | [Link](https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-14-x-1-18-x.62325/download?version=431707) | Gecolay | Global | 1.16.5 | Yes | In use | N/A |
 | LibsDisguise | [Link](https://www.spigotmc.org/resources/libs-disguises.32453/download?version=409582) | libraryaddict | Global | 1.16.5 | No | In use | N/A |
 | Vault | [Link](https://www.spigotmc.org/resources/vault.34315/download?version=344916) | Sleaker | Global | 1.16.5 | No | In use | N/A |
-| GriefPrevention | [Link](https://www.spigotmc.org/resources/griefprevention.1884/download?version=378477) | RoboMWM | N/A | 1.16.5 | No | To reevaluate | N/A | 
+| GriefPrevention | [Link](https://www.spigotmc.org/resources/griefprevention.1884/download?version=378477) | RoboMWM | N/A | 1.16.5 | No | To be reevaluated | N/A | 
 | DeluxeHub | [Link](https://www.spigotmc.org/resources/deluxehub-3-professional-hub-management.49425/download?version=429646) | itsLewizzz | Hub | 1.16.5 | Yes | To be replaced (Core v1) | N/A |
 | ~~Ersatz~~ | ~~[Link](https://www.spigotmc.org/resources/ersatz.49433/download?version=193252)~~ | ~~Pikachu920~~ | ~~Hub~~ | ~~N/A~~ | ~~N/A~~ | **Removed** | 16/12/2021 |
 | Action Bar Health | [Link](https://www.spigotmc.org/resources/action-bar-health.2661/download?version=429046) | ZeeZee | Remission | 1.16.4 | No | To be replaced (Core v1) | N/A |
 | ~~AdvancedSpawners~~ | ~~[Link](https://www.spigotmc.org/resources/1-8-1-18-1-%E2%9C%85-advancedspawners-%E2%9C%85-11x-custom-mobs-%E2%AD%95-create-custom-mobs-in-game-%E2%9A%A1-25-sale-%E2%9A%A1.75458/purchase)~~ | ~~GC.~~ | ~~Remission~~ | ~~1.16.4~~ | ~~Yes~~ | **Removed** | 16/12/2021 |
-| ~~BetterEnd~~ | ~~[Link](https://www.spigotmc.org/resources/betterend-rethink-the-end-dimension.79389/)~~ | ~~dfsek~~ | ~~Remission~~ | ~~1.16.4~~ | No | **Removed** | 16/12/2021 |
+| ~~BetterEnd~~ | ~~[Link](https://www.spigotmc.org/resources/betterend-rethink-the-end-dimension.79389/)~~ | ~~dfsek~~ | ~~Remission~~ | ~~1.16.4~~ | ~~No~~ | **Removed** | 16/12/2021 |
 | BloodMoon | [Link](https://www.spigotmc.org/resources/bloodmoon.74270/download?version=349021) | SpectralMemories | Remission | 1.16.4 | No | To be replaced (Core v1) | N/A |
 | BetterRTP | [Link](https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/download?version=421901) | RonanCraft | Remission | 1.16.4 | ~~No~~ | To be replaced (Core v1) | N/A | 
 | BloodInMinecraft | [Link](https://www.spigotmc.org/resources/blood-in-minecraft.31549/download?version=423777) | yanisssch91 | Remission | 1.16.4 | No | To be replaced (Core v1) | N/A |
@@ -73,9 +73,9 @@
 | Dangerous Caves 2 | [Link](https://www.spigotmc.org/resources/dangerous-caves-2-make-your-caves-scary-1-12-2-1-16-5.76212/download?version=382008) | imDaniX | Remission | 1.16.4 | No | In use | N/A |
 | EnchantControl Reforged | [Link](https://www.spigotmc.org/resources/enchantcontrol-reforged.85691/download?version=372261) | Dzious | Remission | 1.16.4 | No | To be replaced (Core v1) | N/A |
 | Farm Protection for MC 1.16 | [Link](https://www.spigotmc.org/resources/farm-protection-for-mc-1-16.85488/) | TaskID | Remission | 1.16.4 | No | To remove (Wolrdguard -> `"croptrample = deny"` | N/A |
-| GoldenChallenges | [Link](https://www.spigotmc.org/resources/goldenchallenges-%E2%80%A2-advanced-challenges-for-your-players-1-15-1-18.85028/download?version=430121) | NightExpress | Remission | 1.16.4 | Yes | To replaced (Core v1) | N/A |
+| GoldenChallenges | [Link](https://www.spigotmc.org/resources/goldenchallenges-%E2%80%A2-advanced-challenges-for-your-players-1-15-1-18.85028/download?version=430121) | NightExpress | Remission | 1.16.4 | Yes | To be replaced (Core v1) | N/A |
 | GWarp | [Link](https://www.spigotmc.org/resources/gwarp-warp-home-plugin-1-7-x-1-18-x.56824/download?version=411234) | Gecolay | Remission | 1.16.4 | Yes | No be replaced (Core v1) | N/A |
-| Custom Images | [Link](https://www.spigotmc.org/resources/custom-images.53036/download?version=410610) | Andavin | 1.16.4 | Remission | No | To be replaced (Core v2) | N/A |
+| Custom Images | [Link](https://www.spigotmc.org/resources/custom-images.53036/download?version=410610) | Andavin | Remission | 1.16.4 | No | To be replaced (Core v2) | N/A |
 | LevelledMobs | [Link](https://www.spigotmc.org/resources/levelledmobs-for-1-16-x-1-18-x.74304/download?version=430252) | iokka30 | Remission | 1.16.4 | Yes | To be replaced (Core v1) | N/A |
 | Money From Mobs | [Link](https://www.spigotmc.org/resources/money-from-mobs-1-12-1-18.79137/download?version=429756) | chocolf | Remission | 1.16.4 | No | To be replaced (Core v1) | N/A |
 | More Ores | [Link](https://www.spigotmc.org/resources/%E2%9B%8F%EF%B8%8Fmore-ores%E2%9B%8F%EF%B8%8F.77221/download?version=419757) | Hello1231 | Remission | 1.16.4 | No | To be replaced (Core v1) | N/A |
@@ -86,8 +86,8 @@
 | ShopGUI+ | [Link](https://www.spigotmc.org/resources/shopgui-1-7-1-18.6515/download?version=430598) | brc | Remission | 1.16.4 | No | To be removed (Core v1) | N/A |
 | ShopKeepers | [Link](https://dev.bukkit.org/projects/shopkeepers/files/latest) | blablubb | Remission | 1.16.4 | No | To be replaced (Core v1) | N/A |
 | SimplePets | [Link](https://www.spigotmc.org/resources/simplepets.14124/download?version=372748) | brainsynder | Remission | 1.16.4 | No | To be determined (Core v1) | N/A |
-| Sleep-most | [Link](https://dev.bukkit.org/projects/sleep-most/files/latest) | mrgeneralQ | Remission | 1.13.1 | No | To replace (Core v1) | N/A |
-| SpawnerSilk | [Link](https://dev.bukkit.org/projects/spawnersilk/files/latest) | crylonz | Remission | 1.16.5 | No | To replace (Core v1) | N/A |
+| Sleep-most | [Link](https://dev.bukkit.org/projects/sleep-most/files/latest) | mrgeneralQ | Remission | 1.13.1 | No | To be replaced (Core v1) | N/A |
+| SpawnerSilk | [Link](https://dev.bukkit.org/projects/spawnersilk/files/latest) | crylonz | Remission | 1.16.5 | No | To be replaced (Core v1) | N/A |
 | SuperVanish | [Link](https://www.spigotmc.org/resources/supervanish-be-invisible.1331/) | MyzelYam | Remission | 1.16.4 | Yes | To be replaced (Core v1/v2) | N/A |
 | TabList | [Link](https://www.spigotmc.org/resources/animated-tab-tablist.46229/download?version=430188) | Toldi | Remission | 1.16.4 | Yes | To be replaced (Core v1) | N/A |
 | Thirst | [Link](https://www.spigotmc.org/resources/thirst.3316/download?version=407976) | Hmmcrunchy | Remission | 1.16.4 | No | To be replaced (Core v1) | N/A | 
