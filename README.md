@@ -61,9 +61,10 @@
 | Vault | [Link](https://www.spigotmc.org/resources/vault.34315/download?version=344916) | Sleaker | Global | 1.16.5 | No | In use | N/A |
 | GriefPrevention | [Link](https://www.spigotmc.org/resources/griefprevention.1884/download?version=378477) | RoboMWM | N/A | 1.16.5 | No | To reevaluate | N/A |  
 | DeluxeHub | [Link](https://www.spigotmc.org/resources/deluxehub-3-professional-hub-management.49425/download?version=429646) | itsLewizzz | Hub | 1.16.5 | Yes | To be replaced (Core v1) | N/A |
-| Ersatz | [Link](https://www.spigotmc.org/resources/ersatz.49433/download?version=193252) | Pikachu920 | Hub | N/A | N/A | To be removed | N/A |
+| ~~Ersatz | [Link](https://www.spigotmc.org/resources/ersatz.49433/download?version=193252) | Pikachu920 | Hub | N/A | N/A | **Removed** | 16/12/2021~~ |
 | Action Bar Health | [Link](https://www.spigotmc.org/resources/action-bar-health.2661/download?version=429046) | ZeeZee | Remission | 1.16.4 | No | To be replaced (Core v1) | N/A |
-| AdvancedSpawners | [Link](https://www.spigotmc.org/resources/1-8-1-18-1-%E2%9C%85-advancedspawners-%E2%9C%85-11x-custom-mobs-%E2%AD%95-create-custom-mobs-in-game-%E2%9A%A1-25-sale-%E2%9A%A1.75458/purchase) | GC. | Remission | 1.16.4 | Yes | To be removed | N/A |
+| ~~AdvancedSpawners | [Link](https://www.spigotmc.org/resources/1-8-1-18-1-%E2%9C%85-advancedspawners-%E2%9C%85-11x-custom-mobs-%E2%AD%95-create-custom-mobs-in-game-%E2%9A%A1-25-sale-%E2%9A%A1.75458/purchase) | GC. | Remission | 1.16.4 | Yes | **Removed** | 16/12/2021/~~ |
+| ~~BetterEnd | [Link](https://www.spigotmc.org/resources/betterend-rethink-the-end-dimension.79389/) | dfsek | Remission | 1.16.4 | | **Removed**~~ | 16/12/2021
 | BloodMoon | [Link](https://www.spigotmc.org/resources/bloodmoon.74270/download?version=349021) | SpectralMemories | Remission | 1.16.4 | No | To be replaced (Core v1) | N/A |
 | BetterRTP | [Link](https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/download?version=421901) | RonanCraft | Remission | 1.16.4 | No | To be replaced (Core v1) | N/A | 
 | BloodInMinecraft | [Link](https://www.spigotmc.org/resources/blood-in-minecraft.31549/download?version=423777) | yanisssch91 | Remission | 1.16.4 | No | To be replaced (Core v1) | N/A |
@@ -96,7 +97,7 @@
 | UltimateRepairing | [Link](https://songoda.com/marketplace/product/ultimaterepairing-repair-items-on-an-anvil-at-a-cost.20) | Songoda | Remission | 1.16.4 | No | In use | N/A |
 | UltimateTimber | [Link](https://songoda.com/marketplace/product/ultimatetimber-the-realistic-tree-chopper.18) | Songoda | Remission | 1.16.4 | Yes | In use | N/A |
 | Walljump | [Link](https://www.spigotmc.org/resources/wall-jump.88311/download?version=404163) | Arthed | Remission | 1.16.4 | No | To be determined | N/A |
-| WorldEdit | [Link](https://dev.bukkit.org/projects/worldedit/files/latest) | sk89q | Remission | 1.16.4 | Yes | To be removed (FAWE) | N/A |
+| ~~WorldEdit | [Link](https://dev.bukkit.org/projects/worldedit/files/latest) | sk89q | Remission | 1.16.4 | Yes | **Removed | 16/12/2021~~ |
 | BeautyQuest | [Link](https://www.spigotmc.org/resources/beautyquests.39255/download?version=429760) | SkytAsul | Remission | 1.16.4 | Yes | To be replaced (Core v1) | N/A |
 | Celeste | [Link](https://www.spigotmc.org/resources/celeste.81862/download?version=430024) | Idrees | Remission | 1.16.4 | Yes | In use | N/A |
 | MeteoritePro | [Link](https://www.spigotmc.org/resources/meteoritespro.72092/download?version=345152) | Olipulse | Remission | 1.16.4 | No | In use | N/A |
