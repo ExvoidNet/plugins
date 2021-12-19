@@ -32,6 +32,7 @@
 - Version is the current version we use in the context
 
 ## Plugins
+### Global
 | Plugin | Download  | Author | Context | Version | 1.18 Ready? | Status | Last Updated |
 |--|--|--|--|--|--|--|--|
 | LuckPerms | [Link](https://ci.lucko.me/job/LuckPerms/1389/artifact/velocity/build/libs/LuckPerms-Velocity-5.3.89.jar) | Luck | Proxy | 3.0.0+ | Yes | In use | N/A |
@@ -59,9 +60,18 @@
 | GSit | [Link](https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-14-x-1-18-x.62325/download?version=431707) | Gecolay | Global | 1.16.5 | Yes | In use | N/A |
 | LibsDisguise | [Link](https://www.spigotmc.org/resources/libs-disguises.32453/download?version=409582) | libraryaddict | Global | 1.16.5 | No | In use | N/A |
 | Vault | [Link](https://www.spigotmc.org/resources/vault.34315/download?version=344916) | Sleaker | Global | 1.16.5 | No | In use | N/A |
+### Unknown
+| Plugin | Download  | Author | Context | Version | 1.18 Ready? | Status | Last Updated |
+|--|--|--|--|--|--|--|--|
 | GriefPrevention | [Link](https://www.spigotmc.org/resources/griefprevention.1884/download?version=378477) | RoboMWM | N/A | 1.16.5 | No | To be reevaluated | N/A | 
+### Hub
+| Plugin | Download  | Author | Context | Version | 1.18 Ready? | Status | Last Updated |
+|--|--|--|--|--|--|--|--|
 | DeluxeHub | [Link](https://www.spigotmc.org/resources/deluxehub-3-professional-hub-management.49425/download?version=429646) | itsLewizzz | Hub | 1.16.5 | Yes | To be replaced (Core v1) | N/A |
 | ~~Ersatz~~ | ~~[Link](https://www.spigotmc.org/resources/ersatz.49433/download?version=193252)~~ | ~~Pikachu920~~ | ~~Hub~~ | ~~N/A~~ | ~~N/A~~ | **Removed** | 16/12/2021 |
+### Remission
+| Plugin | Download  | Author | Context | Version | 1.18 Ready? | Status | Last Updated |
+|--|--|--|--|--|--|--|--|
 | Action Bar Health | [Link](https://www.spigotmc.org/resources/action-bar-health.2661/download?version=429046) | ZeeZee | Remission | 1.16.4 | No | To be replaced (Core v1) | N/A |
 | ~~AdvancedSpawners~~ | ~~[Link](https://www.spigotmc.org/resources/1-8-1-18-1-%E2%9C%85-advancedspawners-%E2%9C%85-11x-custom-mobs-%E2%AD%95-create-custom-mobs-in-game-%E2%9A%A1-25-sale-%E2%9A%A1.75458/purchase)~~ | ~~GC.~~ | ~~Remission~~ | ~~1.16.4~~ | ~~Yes~~ | **Removed** | 16/12/2021 |
 | ~~BetterEnd~~ | ~~[Link](https://www.spigotmc.org/resources/betterend-rethink-the-end-dimension.79389/)~~ | ~~dfsek~~ | ~~Remission~~ | ~~1.16.4~~ | ~~No~~ | **Removed** | 16/12/2021 |
