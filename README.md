@@ -103,7 +103,7 @@
 | Scoreboard Revision | [Link](https://www.spigotmc.org/resources/scoreboard.14754/download?version=388422) | HelloitsRien | Remission | 1.16.4 | No | To be removed (Core v1) | 18/12/2021 |
 | ShopGUI+ | [Link](https://www.spigotmc.org/resources/shopgui-1-7-1-18.6515/download?version=430598) | brc | Remission | 1.16.4 | No | To be removed (Core v1) | 18/12/2021 |
 | ShopKeepers | [Link](https://dev.bukkit.org/projects/shopkeepers/files/latest) | blablubb | Remission | 1.16.4 | No | To be replaced (Core v1) | 18/12/2021 |
-| ~~SimplePets~~ | ~~[Link](https://www.spigotmc.org/resources/simplepets.14124/download?version=372748)~~ | ~~brainsynder~~ | ~~Remission | ~~1.16.4~~ | ~~No~~ | **Removed (Cannot update)** | 18/12/2021 |
+| ~~SimplePets~~ | ~~[Link](https://www.spigotmc.org/resources/simplepets.14124/download?version=372748)~~ | ~~brainsynder~~ | ~~Remission~~ | ~~1.16.4~~ | ~~No~~ | **Removed (Cannot update)** | 18/12/2021 |
 | Sleep-most | [Link](https://dev.bukkit.org/projects/sleep-most/files/latest) | mrgeneralQ | Remission | 1.13.1 | No | To be replaced (Core v1) | 18/12/2021 |
 | SpawnerSilk | [Link](https://dev.bukkit.org/projects/spawnersilk/files/latest) | crylonz | Remission | 1.16.5 | No | To be replaced (Core v1) | 18/12/2021 |
 | SuperVanish | [Link](https://www.spigotmc.org/resources/supervanish-be-invisible.1331/) | MyzelYam | Remission | 1.16.4 | Yes | To be replaced (Core v1/v2) | 18/12/2021 |
