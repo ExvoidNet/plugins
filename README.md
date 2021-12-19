@@ -38,9 +38,10 @@
 | Chunky | [Link](https://www.spigotmc.org/resources/chunky.81534/download?version=429008) | pop4959 | Global | 1.16.5 | Yes | In use | N/A |
 | Citizens | [Link](https://ci.citizensnpcs.co/job/citizens2/) | fullwall | Global | 1.16.5 | Yes | To be replaced (LibsDisguised) | 18/12/2021 |
 | CoreProtect | [Link](https://www.spigotmc.org/resources/coreprotect.8631/download?version=411732) | Intelli | Global | 1.16.5 | Yes | In use | 18/12/2021 |
-| EssentialsX | [Link](https://github.com/EssentialsX/Essentials/releases/download/2.19.2/EssentialsX-2.19.2.jar) | md678685 | Global | 1.16.5 | Yes | To be replaced (Core v1) | N/A |
-| EssentialsX Chat | [Link](https://github.com/EssentialsX/Essentials/releases/download/2.19.2/EssentialsXChat-2.19.2.jar) | md678685 | Global | 1.16.5 | Yes | EssentialsX (Component) | N/A |
-| EssentialsX Spawn | [Link](https://github.com/EssentialsX/Essentials/releases/download/2.19.2/EssentialsXSpawn-2.19.2.jar) | md678685 | Global | 1.16.5 | Yes | EssentialsX (Component) | N/A |
+| EssentialsX | [Link](https://github.com/EssentialsX/Essentials/releases/download/2.19.2/EssentialsX-2.19.2.jar) | md678685 | Global | 1.16.5 | Yes | To be replaced (Core v1) | 18/12/2021 |
+| EssentialsX Chat | [Link](https://github.com/EssentialsX/Essentials/releases/download/2.19.2/EssentialsXChat-2.19.2.jar) | md678685 | Global | 1.16.5 | Yes | EssentialsX (Component) | 18/12/2021 |
+| EssentialsX Protect | [Link]() | md678685 | Global | 1.16.5 | Yes | EssentialsX (Component) | 18/12/2021 |
+| EssentialsX Spawn | [Link](https://github.com/EssentialsX/Essentials/releases/download/2.19.2/EssentialsXSpawn-2.19.2.jar) | md678685 | Global | 1.16.5 | Yes | EssentialsX (Component) | 18/12/2021 |
 | FastAsyncVoxelSniper | [Link](https://dev.bukkit.org/projects/favs) | IntellectualSites | Global | 1.16.5 | No | In use | N/A |
 | FastAsyncWorldEdit | [Link](https://ci.athion.net/job/FastAsyncWorldEdit-1.17/) | IntellectualSites | Global | 1.16.5 | No | In use | N/A |
 | goBrush | [Link](https://www.spigotmc.org/resources/gobrush.23118/download?version=398990) | Arcaniax | Global | 1.16.5 | No | In use | N/A |
